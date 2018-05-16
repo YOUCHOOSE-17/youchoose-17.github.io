@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="562px" height="179px" viewBox="0 0 562 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>personagens_banheira</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="IMAGENS-SCROLL-POOL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="personagens_banheira">
+            <g id="Group-3" transform="translate(202.000000, 26.000000)" fill="#EC1C24">
+                <path d="M134.8791,67.297 C134.8791,104.403 104.7991,134.483 67.6931,134.483 C30.5871,134.483 0.5071,104.403 0.5071,67.297 C0.5071,30.191 30.5871,0.111 67.6931,0.111 C104.7991,0.111 134.8791,30.191 134.8791,67.297" id="Fill-1"></path>
+            </g>
+            <polygon id="Fill-6" fill="#77FF43" points="0 0 0 178.611 117.951 178.611"></polygon>
+            <polygon id="Fill-4" fill="#FFFF00" points="441 153.039 561.039 153.039 561.039 33 441 33"></polygon>
+        </g>
+    </g>
+</svg>

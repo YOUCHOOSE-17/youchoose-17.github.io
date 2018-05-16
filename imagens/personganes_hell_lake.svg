@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="569px" height="184px" viewBox="0 0 569 184" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>personganes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 184 603 184 603 0 0 0"></polygon>
+        <polygon id="path-3" points="132.740133 132.612727 132.740133 0.409340297 0.537690096 0.409340297 0.537690096 132.612727"></polygon>
+    </defs>
+    <g id="IMAGENS-SCROLL-HORIZONTAL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lake-heaven" transform="translate(-786.000000, -383.000000)">
+            <g id="personganes" transform="translate(786.000000, 383.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <path d="M15.3062922,8 C15.3062922,8 -19.1328653,58.8658927 15.3062922,93.5461835 C49.7454498,128.226474 15.3062922,176.780138 15.3062922,176.780138 C15.3062922,176.780138 56.6339052,195.274827 75,176.780138" id="Fill-6" fill="#E12524" mask="url(#mask-2)"></path>
+                <path d="M74.6937078,177 C74.6937078,177 109.132865,126.134107 74.6937078,91.4538165 C40.2545502,56.7735256 74.6937078,8.21986179 74.6937078,8.21986179 C74.6937078,8.21986179 33.3660948,-10.2748272 15,8.21986179" id="Fill-7" fill="#E12524" mask="url(#mask-2)"></path>
+                <polygon id="Fill-8" fill="#00EB30" mask="url(#mask-2)" points="453 4 453 179 569 179"></polygon>
+                <g id="Group-3" mask="url(#mask-2)">
+                    <g transform="translate(205.000000, 26.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-2" stroke="none" fill="none"></g>
+                        <path d="M132.741077,66.5110336 C132.741077,103.018147 103.146497,132.612727 66.6393834,132.612727 C30.1322699,132.612727 0.537690096,103.018147 0.537690096,66.5110336 C0.537690096,30.0039201 30.1322699,0.409340297 66.6393834,0.409340297 C103.146497,0.409340297 132.741077,30.0039201 132.741077,66.5110336" id="Fill-1" stroke="none" fill="#00A69C" fill-rule="evenodd" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

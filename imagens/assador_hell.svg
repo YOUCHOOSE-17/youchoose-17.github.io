@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="509px" viewBox="0 0 400 509" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>assador_hell</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="HELL" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Custom-Preset" transform="translate(-764.000000, -196.000000)" fill="#7911FF">
+            <g id="assador_hell" transform="translate(764.000000, 196.000000)">
+                <path d="M328.525426,127.189303 C325.832048,118.675809 333.956061,110.709708 342.350086,113.606472 L383.192912,127.702696 C386.881963,128.97768 389.605718,132.132841 390.321252,135.998592 C394.843968,160.498686 409.492168,252.181941 390.571014,324.533038 C389.693472,327.898996 387.189103,330.598562 383.952323,331.825947 L343.170251,347.278753 C334.644593,350.508713 326.253943,342.345415 329.092453,333.624524 C340.932519,297.241578 357.804949,219.668147 328.525426,127.189303 Z" id="Fill-7"></path>
+                <polygon id="Fill-5" transform="translate(188.000000, 243.500000) scale(-1, 1) translate(-188.000000, -243.500000) " points="222 452 154 425.913433 154 62.170242 222 35"></polygon>
+                <polygon id="Fill-3" points="0.1732 508.9999 68.0002 503.2779 68.0002 5.9999 11.3092 0.9979 0.0002 0.0009"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

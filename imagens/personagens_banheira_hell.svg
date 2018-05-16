@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="816px" height="179px" viewBox="0 0 816 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>personagens_banheira</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 179.209 815.879 179.209 815.879 0 0 0"></polygon>
+    </defs>
+    <g id="IMAGENS-SCROLL-BANHEIRA" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="banheira_heaven_personagens" transform="translate(-786.000000, -385.000000)">
+            <g id="personagens_banheira" transform="translate(786.000000, 385.000000)">
+                <g id="Group-3" transform="translate(681.000000, 23.209000)" fill="#EC008A">
+                    <path d="M134.8791,67.297 C134.8791,104.403 104.7991,134.483 67.6931,134.483 C30.5871,134.483 0.5071,104.403 0.5071,67.297 C0.5071,30.191 30.5871,0.111 67.6931,0.111 C104.7991,0.111 134.8791,30.191 134.8791,67.297" id="Fill-1"></path>
+                </g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <polygon id="Fill-4" fill="#34CEE8" mask="url(#mask-2)" points="450 151.039 570.039 151.039 570.039 31 450 31"></polygon>
+                <polygon id="Fill-6" fill="#77FF43" mask="url(#mask-2)" points="234.6584 0.0001 234.6584 178.6111 352.6094 178.6111"></polygon>
+                <polygon id="Fill-7" fill="#EAD944" mask="url(#mask-2)" points="125.1079 128.2131 61.7909 163.0071 -0.0001 125.5701 1.5259 53.3391 64.8429 18.5451 126.6339 55.9821"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
