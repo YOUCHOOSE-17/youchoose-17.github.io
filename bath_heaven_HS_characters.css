@@ -1,0 +1,128 @@
+body {
+    display: flex;
+    flex-direction: row;
+    margin:0;
+}
+
+#main {
+    width: 150vw;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+#content {
+    width:auto;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+/* TEXTO */ 
+
+#text {
+    width: 50%;
+    min-width: 532px;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    margin-left: 7vw;
+    
+}
+
+
+#text_characters {
+    width: auto;
+    height: 105px;
+/*    max-height: 105px;*/
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+	color: #5ee8ef;
+    font-weight: 600;
+    align-items: center;
+}
+
+#text_your {
+    width: 60vw;
+    max-width: 530px;
+    height: auto;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+	color: #ffffff;
+	line-height: 1.5;
+    font-weight: medium;
+    
+}
+
+#characters_image {
+    width: 816px;
+    min-width: 816px;
+    min-height: 186px;
+    display: flex;
+    background-image: url(imagens/personagens_banheira_heaven.svg);
+    margin: 6vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: center;
+    
+}
+
+
+    
+   @media screen and (max-width:550px) {
+    
+   #content {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    #text {
+    width: 300px;
+    min-width:0px!important;
+    height: auto;
+    display: flex;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    margin-top: 10vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 8vw;
+    
+}
+    #text_characters {
+    width: 250px;
+    font-size: 44px;
+    }
+    
+    #text_your {
+    font-size: 14px;
+    width: 300px;
+    line-height: 1.5;
+    text-align: center;
+    }
+     
+    #characters_image {
+    width: 350px;
+    min-width:0px!important;
+    min-height: 74px;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    }
+    
+    
+
+
+	

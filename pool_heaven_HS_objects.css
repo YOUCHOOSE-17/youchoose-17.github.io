@@ -1,0 +1,236 @@
+body {
+    display: flex;
+    flex-direction: row;
+    margin:0px;
+}
+
+#main {
+    width: 280vw;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+#content {
+    width: auto;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+/* TEXTO */ 
+
+#text {
+    width: auto;
+    min-width: 532px;
+    margin-left: 7vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    
+}
+
+
+#text_pool {
+    width: 134px;
+    height: 105px;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+	color: #5ee8ef;
+    font-weight: 600;
+    align-items: center;
+}
+
+#text_have {
+    width: auto;
+    max-width: 532px;
+    height: auto;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+	color: #ffffff;
+	line-height: 1.5;
+    font-weight: medium;
+    
+}
+
+
+#assador_decima_orange {
+    width: 596px;
+    min-width: 596px;
+    height: 343px;
+    display: block;
+    background-image: url(imagens/assador_de%20cima_orange.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    align-items: center;
+    background-position: center;
+   
+}
+
+#assador_defrente_orange {
+    width:593px;
+    min-width: 593px;
+    height: 133px;
+    display: flex;
+    background-image: url(imagens/Assador:defrente.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    align-items: center;
+    background-position: center;
+   
+}
+
+
+
+#text_scale {
+    width: 180px;
+    height: 105px;
+/*    max-height: 105px;*/
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+	color: #5ee8ef;
+    font-weight: 600;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    align-self: flex-start;
+    margin-top: 43px;
+ 
+
+}
+
+
+#humano_scale{
+    width: 90px;
+    height:120px;
+    display: flex;
+    background-image: url(imagens/humano_lake.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    align-items: center;
+    background-position: center;
+   
+}
+
+#assador_decima_scale {
+    width: 265px;
+    height: 496px;
+    display: flex;
+    background-image: url(imagens/assador_de%20cima_bath_scale.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    align-items: center;
+    background-position: center;
+    
+}
+
+#assador_defrente_scale {
+    width: 551px;
+    height: 123px;
+    display: flex;
+    background-image: url(imagens/Assador_defrente_bath_scale.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 6vw;
+    margin-right: 6vw;
+    align-items: center;
+    background-position: center;
+    
+}
+
+@media screen and (max-width:650px) {
+    
+   #content {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    #text {
+    width: 300px;
+    min-width:0px!important;
+    height: auto;
+    display: flex;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    margin-top: 3vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+    #text_pool {
+     width: 100px;
+    font-size: 44px;
+    }
+    #text_have {
+    font-size: 14px;
+    width: 300px;
+    line-height: 1.5;
+    text-align: center;
+    }
+    #assador_decima_orange {
+    min-width:0px!important;
+    width: 320px;
+    height: 200px;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top:8vw;
+    margin-bottom: 8vw;
+    }
+    
+    #assador_defrente_orange {
+    min-width:0px!important;
+    width:320px;
+    height: 100px;
+    margin-left: 3vw;
+    margin-right: 3vw;
+    margin-top:8vw;
+    margin-bottom: 8vw;
+    }
+    
+    #text_scale {
+    font-size: 44px;
+    width: 120px;
+    text-align: center;
+    align-self: center;
+    margin-top:3vw;
+    margin-bottom:8vw;
+    }
+    
+    #humano_scale{
+    height:50px;
+    margin-top:8vw;
+    margin-bottom:8vw;
+    }
+   
+    #assador_decima_scale {
+    width: 200px;
+    height: 276px;
+    margin:8vw;
+    }
+    
+	#assador_defrente_scale {
+    width:293px;
+    height: 100px;
+    margin-top:8vw;
+    margin-bottom: 8vw;
+    }
+	

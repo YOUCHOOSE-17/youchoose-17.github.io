@@ -1,0 +1,122 @@
+body {
+    display: flex;
+    flex-direction: row;
+    margin:0;
+}
+
+#main {
+    width: 250vw;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+#content {
+    width: 250vh;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+/* TEXTO */ 
+
+#text {
+    width: 50%;
+    height:auto;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    margin-left: 7vw;
+    
+}
+
+
+#text_results {
+    width: 200px;
+    height: 105px;
+/*    max-height: 105px;*/
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: 64px;
+	color: #5ee8ef;
+    font-weight: 600;
+    align-items: center;
+}
+
+#text_your {
+    width: auto;
+    max-width: 530px;
+    height: auto;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+	color: #ffffff;
+	line-height: 1.5;
+    font-weight: medium;
+    
+}
+
+#GIF {
+    width: 1061px;
+    height: 400px;
+    display: flex;
+    background-image: url(imagens/gif-lago_heaven.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-position: center;
+    margin-right: 6vw;
+    margin-left: 6vw;
+    
+}
+@media screen and (max-width:550px) {
+    
+   #content {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    #text {
+    width: 300px;
+    height: auto;
+    display: flex;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    margin-top: 10vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+    #text_results {
+    width: 153px;
+    font-size: 44px;
+    text-align: center;
+    }
+    
+    #text_your {
+    font-size: 14px;
+    width: 300px;
+    line-height: 1.5;
+    text-align: center;
+    }
+     
+    #GIF {
+    width: 361px;
+    height: 200px;
+   
+    margin-left: 3vw;
+    margin-right: 3vw;
+    }
+    
+    
+
+
+	

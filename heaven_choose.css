@@ -1,0 +1,169 @@
+body {
+    display:flex;
+    flex-direction: column;
+    margin: 0px;
+   
+}
+
+#main {
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    
+}
+#black_half {
+    width: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+a:hover {
+    filter: brightness(85%);
+    opacity: 0.9;
+}
+
+#assador_half {
+    width: 398px;
+    height: 509px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 40px;
+}
+
+#assador_lake {
+    width: 72px;
+    height: 235px;
+    display: flex;
+   
+}
+
+#assador_bath {
+    width: 68px;
+    height: 417px;
+    display: flex;
+}
+#assador_pool {
+    width: 68px;
+    height: 509px;
+    display: flex;
+}
+#blue {
+    width: 50%;
+    height: 100vh;
+    background-color: #5ee8ef;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#you {
+    width: 100%;
+    height: auto;
+    font-family:'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    color: #ffffff;
+    margin-left: 7%;
+}
+
+/*FOOTER*/
+
+#footer {
+    width: 100vw;
+    height: 100px;
+    background-color: white;
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer_content {
+    width: 90%;
+    height: 90%;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+#footer_logo {
+    width: auto;
+    height: auto;
+    font-family:'Poppins', sans-serif;
+    font-size: 14px;
+    align-items: center;
+    
+ }
+
+#footer_send {
+    width: auto;
+    height: auto;
+    font-family:'Poppins', sans-serif;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.you:link {
+    text-decoration: none;
+    color: black;
+}
+.you:hover {
+     text-decoration: none;
+    color: #5ee8ef;
+   
+}
+
+@media screen and (max-width:450px) {
+    
+    #assador_half {
+    width: 156px;
+    align-items: center;
+    margin-left: 4vw;
+    margin-right: 16px;
+    }
+    
+    #assador_lake {
+    width:27px;
+    display: flex;
+    align-items: center;
+    margin-top: 5.5px;
+       
+}
+
+    #assador_bath {
+    width:27px;
+    display: flex;
+}
+    #assador_pool {
+    width:27px;
+    display: flex;
+}
+    
+    #footer {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    }
+    
+    #footer_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+}
+    
+ #you {
+    font-size: 16px;
+}
+
+}
